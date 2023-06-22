@@ -1,9 +1,9 @@
 # EPSIS 전력통계시스템 크롤링하는 코드 및 merge하는 코드
 
 |py명|용도|
-|:---:|:---:|
+|:---:|:---|
 |epsis.py|EPSIS 크롤링하는 코드|
-|validation.py|크롤링한 데이터 검토한느 코드|
+|validation.py|크롤링한 데이터 검토하는 코드|
 |merge.py|1. 크롤링한 데이터 merge하는 코드  \n2. merge한 데이터와 기존 데이터 merge하는 코드|
 
 ## epsis.py
