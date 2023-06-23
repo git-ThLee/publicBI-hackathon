@@ -1,6 +1,6 @@
 
 
-def preprocess_data(data):
+def preprocess_data(data, 결측치_처리방법):
     # 데이터 전처리 작업 수행
     # 예시: 결측치 처리, 이상치 제거, 데이터 변환 등
 

@@ -27,7 +27,6 @@ DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
 # Optional features.
 @click.option('--seed',         help='Random seed',                         metavar='INT',      type=click.IntRange(min=0),                 default=0)
 
-
 def main(**kwargs):
     ## Arguments
     opts = EasyDict(kwargs)
