@@ -2,7 +2,7 @@
 
 ### 빅데이터 분석 과제 4번
 
-![image](assets\Untitled_(1).png)
+![image](.\assets\Untitled_(1).png)
 
 
 # 작업 수행
